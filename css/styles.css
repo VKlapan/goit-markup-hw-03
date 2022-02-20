@@ -117,6 +117,7 @@ p {
   padding-bottom: 25px;
   display: flex;
   align-items: center;
+  border-bottom: 1px solid #ececec;
 }
 
 .header-logo-link {
