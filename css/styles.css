@@ -245,6 +245,11 @@ p {
 .whywe-item {
   margin-right: 30px;
 }
+
+.whywe-item:last-child {
+  margin-right: 0;
+}
+
 .whywe-item-title {
   font-weight: 700;
   font-size: 14px;
